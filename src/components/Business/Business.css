@@ -1,0 +1,57 @@
+.poster{
+    background-image: url(/public/images/choose-cryptu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 70px 0;
+    overflow: hidden;  
+    text-align: center;
+}
+.poster h1{
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 500;
+    color: #fff;
+}
+.poster p{
+    color: #fff;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    padding: 20px;
+}
+.card{
+    background: #fff;
+    width: 100%;
+    padding: 30px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 40px 5px rgb(0 0 0/5%);
+    margin-top: 30px;
+    text-align: center;
+}
+.card:hover{
+       transform: translateY(-20px);
+       transition: .5s; 
+}
+.card img{
+    width: 118px;
+    height: 120px;
+    text-align: center;
+    justify-content: center;
+    align-items: center; 
+}
+.card h3{
+    color: #5a0808;
+    font-size: 24px;  
+}
+.card p{
+color: #5a0808;
+font-size: 18px;
+font-weight: 400;
+padding-bottom: 35px;
+}
+.card a{
+    color: #222;
+    font-size: 18px;
+}

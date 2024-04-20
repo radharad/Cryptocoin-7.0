@@ -1,0 +1,53 @@
+.teamheading-1{
+    font-size: 23px;
+    line-height: 20px;
+    padding-bottom: 11px;
+    font-weight: 400;
+   }
+   .teamheading-2{
+    font-size: 47px;
+    line-height: 59px;
+    padding-bottom: 22px;
+    font-weight: 500;
+   }
+   .team-name{
+    text-align: center;
+    padding: 22px 0 0;
+    padding-right: 100px;
+   }
+   .team-name h3{
+    color: #fff;
+    font-size: 24px;
+    line-height: normal;
+    padding-bottom: 10px;
+    font-weight: 500;
+   }
+   .team-name h5{
+    color: #fff;
+    font-size: 18px;
+    display: block;
+    line-height: normal;
+    font-weight: 400;
+   }
+   .team-social{
+    padding: 14px 0 0;
+    margin: 0;
+   }
+   .team-social div{
+    margin: 10px;
+    float: left;
+    color:#f5a6a4;
+    margin-left: 20px;
+    padding-bottom: 40px;
+   }
+   @media only screen and (min-width:200px) and (max-width:767px){
+    .teamheading-2{
+        font-size: 25px;
+    }
+    img{
+        margin-right: 30px;
+    }
+    .bgteam{
+        display: none;
+    }
+    }

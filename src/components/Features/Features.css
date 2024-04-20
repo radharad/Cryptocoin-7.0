@@ -1,0 +1,68 @@
+.h3{
+    color: #430000;
+    font-size: 23px;
+    line-height: 20px;
+    padding-bottom: 12px;
+    font-weight: 400;
+}
+.head{
+    color: #222;
+    font-size: 47px;
+    line-height: 60px;
+    padding-bottom: 20px;
+    font-weight: 500;
+}
+.para{
+    color: #777;
+    font-size: 18px;
+    line-height: 28px;
+   padding-bottom: 10px;
+    font-weight: 400;
+}
+.flex-grow{
+    float:left;
+    left: 150px;
+    position: relative;
+    bottom: 100px;
+}
+.svg{
+    background: #9B0000;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 3px;
+    position: relative;
+    top: 25px;
+
+}
+
+.heading{
+color: #222;
+font-size: 24px;
+padding-bottom: 21px;
+font-weight: 500;
+}
+.description{
+color: #777;
+font-size: 18px;
+line-height: 28px;
+padding-bottom: 10px;
+}
+.flex{
+    margin-bottom: -70px;
+}
+@media only screen and (min-width:200px) and (max-width:767px){
+.head{
+    font-size: 30px;
+    line-height: 36px;
+}
+.flex-grow{
+    left: 0px;
+}
+.description{
+    margin-top: 120px;
+}
+.svg{
+    top: 70px;
+}
+}

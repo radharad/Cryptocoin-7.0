@@ -1,0 +1,49 @@
+.poster{
+    background-image: url(/public/images/choose-cryptu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 70px 0;
+    overflow: hidden;  
+    text-align: center; 
+}
+.poster h1{
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: 500;
+    color: #fff;
+}
+.poster p{
+    color: #fff;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+  /*  padding: 20px;*/
+}
+.about h3{
+    font-size: 23px;
+    line-height: 20px;
+    padding-bottom: 2px;
+    font-weight: 400;
+}
+.about h2{
+    font-size: 46px;
+    line-height: 58px;
+    padding-bottom: 16px;
+    font-weight: 500;
+}
+.about p{
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+    padding-bottom: 25px;
+}
+@media only screen and (min-width:200px) and (max-width:767px){
+    .about h2{
+        font-size: 28px;
+        line-height: 35px;
+    }
+    img{
+        margin-left: 30px;
+    }
+}
