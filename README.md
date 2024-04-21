@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Ayurveda Health Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Ayurveda Health website is a comprehensive online platform built with React.js
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+To run this project locally, follow these steps:
 
-### `npm start`
+1. Clone the repository: `git clone https://github.com/radharad/Health-Website-4.0.git `
+2. Navigate to the project directory:
+3. Install dependencies:
+4. Start the development server:
+5. Open your browser and visit http://localhost:3000 to view the app.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Home Page with Dynamic Content: The homepage dynamically presents the latest articles, events, and promotions related to Ayurveda health and wellness.
+- Educational Resources: A rich repository of articles, videos, and guides provides valuable insights into Ayurvedic principles, practices, and lifestyle recommendations.
+- Consultation Booking: Users can schedule online consultations with certified Ayurvedic practitioners for personalized health assessments and treatment plans.
+- Herbal Product Store: An integrated e-commerce section offers a range of authentic Ayurvedic products, supplements, and remedies for purchase.
+- Health Tracker and Journal: A digital health tracker allows users to monitor their progress, track symptoms, and maintain health journals for holistic wellness management.
+- Community Forums and Support: Interactive forums and support groups foster community engagement, knowledge sharing, and peer-to-peer support among Ayurveda enthusiasts.
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React.js
+- HTML
+- Modern Libraries
 
-### `npm run build`
+## Project Structure
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+src/
+|-- App.js
+|-- index.js
+public/
+|-- index.html
+README.md
+package.json
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contact Information:
+For any inquiries or feedback, please email me at komalsatpute950@gmail.com
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Demo Link:
+You can view the live demo [here](https://cheery-starship-5ac752.netlify.app).
