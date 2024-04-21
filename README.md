@@ -1,6 +1,6 @@
-# Ayurveda Health Website
+# CryptoCoin
 
-The Ayurveda Health website is a comprehensive online platform built with React.js
+The CryptoCoin website is a modern and user-friendly platform built using React.js.
 
 ## Getting Started
 
@@ -14,12 +14,18 @@ To run this project locally, follow these steps:
 
 ## Features
 
-- Home Page with Dynamic Content: The homepage dynamically presents the latest articles, events, and promotions related to Ayurveda health and wellness.
-- Educational Resources: A rich repository of articles, videos, and guides provides valuable insights into Ayurvedic principles, practices, and lifestyle recommendations.
-- Consultation Booking: Users can schedule online consultations with certified Ayurvedic practitioners for personalized health assessments and treatment plans.
-- Herbal Product Store: An integrated e-commerce section offers a range of authentic Ayurvedic products, supplements, and remedies for purchase.
-- Health Tracker and Journal: A digital health tracker allows users to monitor their progress, track symptoms, and maintain health journals for holistic wellness management.
-- Community Forums and Support: Interactive forums and support groups foster community engagement, knowledge sharing, and peer-to-peer support among Ayurveda enthusiasts.
+- Real-time Data: The website integrates with cryptocurrency APIs to fetch real-time data such as coin prices, market capitalization, trading volumes, and more.
+- Interactive Charts: Users can access interactive and customizable charts to visualize historical price trends, trading volumes, and market sentiment for various 
+  cryptocurrencies.
+- Portfolio Management: The platform allows users to create and manage their cryptocurrency portfolios, track portfolio performance, view historical data, and set alerts for 
+  price changes.
+- News and Analysis: CryptoCoin provides curated news articles, market analysis, and insights from industry experts to keep users informed about the latest trends and 
+  developments in the cryptocurrency space.
+- Educational Resources: It offers educational resources, tutorials, and guides for beginners to learn about blockchain technology, trading strategies, security practices, and 
+  other relevant topics.
+- User Authentication: Users can create accounts, log in securely, and access personalized features such as saved portfolios, favorite coins, and customized preferences.
+  Responsive Design: The website is designed to be responsive and accessible across devices, including desktops, tablets, and mobile phones, ensuring a seamless user 
+  experience.
 
 ## Technologies Used
 
@@ -41,4 +47,4 @@ package.json
 For any inquiries or feedback, please email me at komalsatpute950@gmail.com
 
 ## Demo Link:
-You can view the live demo [here](https://cheery-starship-5ac752.netlify.app).
+You can view the live demo [here](https://peaceful-frangollo-d68ea8.netlify.app).
