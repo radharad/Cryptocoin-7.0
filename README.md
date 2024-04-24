@@ -30,7 +30,9 @@ To run this project locally, follow these steps:
 ## Technologies Used
 
 - React.js
-- HTML
+- Javascript
+- HTML5
+- CSS3
 - Modern Libraries
 
 ## Project Structure
